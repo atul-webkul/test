@@ -1,0 +1,24 @@
+2023-06-01T05:47:19+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 403
+API response: 
+Pinterest Code: 
+2023-06-01T05:54:41+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 403
+API response: 
+Pinterest Code: 
+2023-06-01T05:56:48+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 403
+API response: 
+Pinterest Code: 
+2023-06-01T05:56:55+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 403
+API response: 
+Pinterest Code: 
+2023-06-01T06:02:56+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 403
+API response: 
+Pinterest Code: 
+2023-06-01T06:07:57+00:00 ERROR GET Request: https://api.pinterest.com/ads/v4/advertisers/countries
+Status Code: 403
+API response: 
+Pinterest Code: 
